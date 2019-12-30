@@ -1,0 +1,11 @@
+/* Avenir LT W04_45 Book */
+@font-face {
+  font-family: 'Avenir LT W04_45 Book';
+  font-style: oblique;  
+  font-weight: 400;
+  display: swap;  
+  src:
+    url('https://opel22.github.io/CustomFonts/Avenir_LT_W04_45_Book/Avenir_LT_W04_45_Book.woff2') format('woff2'),
+    url('https://opel22.github.io/CustomFonts/Avenir_LT_W04_45_Book/Avenir_LT_W04_45_Book.woff') format('woff'),
+    url('https://opel22.github.io/CustomFonts/Avenir_LT_W04_45_Book/Avenir_LT_W04_45_Book.ttf') format('truetype');
+}
