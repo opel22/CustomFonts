@@ -5,6 +5,6 @@
     url('https://opel22.github.io/CustomFonts/Avenir_LT_W04_35_Light/Avenir_LT_W04_35_Light.woff2') format('woff2'),
     url('https://opel22.github.io/CustomFonts/Avenir_LT_W04_35_Light/Avenir_LT_W04_35_Light.woff') format('woff'),
     url('https://opel22.github.io/CustomFonts/Avenir_LT_W04_35_Light/Avenir_LT_W04_35_Light.ttf') format('truetype');
-  font-weight: lighter;
+  font-weight: normal;
   font-style: normal;
 }
