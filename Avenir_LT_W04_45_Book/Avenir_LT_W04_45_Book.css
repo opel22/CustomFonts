@@ -1,4 +1,4 @@
-/* Avenir LT W04_45 Book */
+/* Avenir LT W04_45 Book 
 @font-face {
   font-family: 'Avenir LT W04_45 Book';
   font-style: normal;  
@@ -8,4 +8,16 @@
     url('https://opel22.github.io/CustomFonts/Avenir_LT_W04_45_Book/Avenir_LT_W04_45_Book.woff2') format('woff2'),
     url('https://opel22.github.io/CustomFonts/Avenir_LT_W04_45_Book/Avenir_LT_W04_45_Book.woff') format('woff'),
     url('https://opel22.github.io/CustomFonts/Avenir_LT_W04_45_Book/Avenir_LT_W04_45_Book.ttf') format('truetype');
+}*/
+/* Avenir LT W04_45 Book */
+@import url("https://fast.fonts.net/lt/1.css?apiType=css&c=1455b350-6389-4219-80c4-d7a65dd85137&fontids=1475500,1475506,1475512,1475518,1475524,1475530,1475536,1475542,1475548,1475554,1475560,1475566");
+@font-face{
+        font-family:"Avenir LT W04_45 Book1475512";
+        src:url("Fonts/1475512/920c15d4-2d04-48b5-8e84-e3bf5e3828d9.eot?#iefix");
+        src:url("Fonts/1475512/920c15d4-2d04-48b5-8e84-e3bf5e3828d9.eot?#iefix") format("eot"),
+            url("Fonts/1475512/fe2d00d9-aadd-40f7-a144-22a6f695aa8f.woff2") format("woff2"),
+            url("Fonts/1475512/c3795fc9-e264-4795-9a19-b57086aa6f7b.woff") format("woff"),
+            url("Fonts/1475512/ad6f5b5d-c8dd-4108-a4d8-fa659f795313.ttf") format("truetype");
 }
+
+
