@@ -1,1 +1,11 @@
-
+/* Prismaset Five*/
+@font-face {
+  font-family: 'Prismaset Five';
+  font-style: normal;  
+  font-weight: 400;
+  display: swap;  
+  src:
+    url('https://opel22.github.io/CustomFonts/PrismasetFive/PrismasetFive.woff2') format('woff2'),
+    url('https://opel22.github.io/CustomFonts/PrismasetFive/PrismasetFive.woff') format('woff'),
+    url('https://opel22.github.io/CustomFonts/PrismasetFive/PrismasetFive.ttf') format('truetype');
+}
