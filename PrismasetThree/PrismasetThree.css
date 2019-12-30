@@ -2,7 +2,7 @@
 @font-face {
   font-family: 'Prismaset Three';
   font-style: normal;  
-  font-weight: 400;
+  font-weight: normal;
   display: swap;  
   src:
     url('https://opel22.github.io/CustomFonts/PrismasetThree/PrismasetThree.woff2') format('woff2'),
